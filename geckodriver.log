@@ -1,0 +1,1190 @@
+1662744845700	geckodriver	INFO	Listening on 127.0.0.1:52809
+1662744848767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileoM9OgR"
+1662744849157	Marionette	INFO	Marionette enabled
+1662744849164	Marionette	INFO	Listening on port 52820
+WebDriver BiDi listening on ws://localhost:52810
+Read port: 52820
+1662744849320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileoM9OgR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52810/devtools/browser/8e9dbd1b-e127-4206-82b0-3736c69ca569
+1662744872802	Marionette	INFO	Stopped listening on port 52820
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662744877404	geckodriver	INFO	Listening on 127.0.0.1:52850
+1662744880468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileVuDbNq"
+1662744880788	Marionette	INFO	Marionette enabled
+1662744880793	Marionette	INFO	Listening on port 52861
+WebDriver BiDi listening on ws://localhost:52851
+Read port: 52861
+1662744880932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileVuDbNq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52851/devtools/browser/6cb82c38-8cca-49ec-b2b8-cf289fdfed58
+1662745102327	Marionette	INFO	Stopped listening on port 52861
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662745103945	geckodriver	INFO	Listening on 127.0.0.1:52906
+1662745106999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileUvgptf"
+1662745107346	Marionette	INFO	Marionette enabled
+1662745107352	Marionette	INFO	Listening on port 52917
+WebDriver BiDi listening on ws://localhost:52907
+Read port: 52917
+1662745107511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileUvgptf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52907/devtools/browser/9c7d181a-bd4f-499b-90b3-7cb03b64b780
+1662745109758	Marionette	INFO	Stopped listening on port 52917
+[Parent 19216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource:///modules/UrlbarProviderSearchTips.jsm, line 388: TypeError: window is null
+1662745750986	geckodriver	INFO	Listening on 127.0.0.1:52987
+1662745754051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52988" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileWX0EDS"
+1662745754431	Marionette	INFO	Marionette enabled
+1662745754436	Marionette	INFO	Listening on port 52998
+WebDriver BiDi listening on ws://localhost:52988
+Read port: 52998
+1662745754568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileWX0EDS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52988/devtools/browser/92523718-cde6-4048-af10-009fb4697ef6
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662745963436	Marionette	INFO	Stopped listening on port 52998
+1662745967097	geckodriver	INFO	Listening on 127.0.0.1:53053
+1662745970178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofiletaljOJ"
+1662745970571	Marionette	INFO	Marionette enabled
+1662745970576	Marionette	INFO	Listening on port 53064
+WebDriver BiDi listening on ws://localhost:53054
+Read port: 53064
+1662745970708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofiletaljOJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53054/devtools/browser/b88d544b-30b1-40e3-9620-b8f7460b8751
+1662746777589	Marionette	INFO	Stopped listening on port 53064
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662746779901	geckodriver	INFO	Listening on 127.0.0.1:53208
+1662746782945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileZQHzvB"
+1662746783184	Marionette	INFO	Marionette enabled
+1662746783188	Marionette	INFO	Listening on port 53219
+WebDriver BiDi listening on ws://localhost:53209
+Read port: 53219
+1662746783398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileZQHzvB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53209/devtools/browser/d2a37e50-6cbf-4510-89f8-52f84cb29d2f
+1662746819633	Marionette	INFO	Stopped listening on port 53219
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662747013742	geckodriver	INFO	Listening on 127.0.0.1:53277
+1662747016814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53278" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilex11ud2"
+1662747017070	Marionette	INFO	Marionette enabled
+1662747017074	Marionette	INFO	Listening on port 53288
+WebDriver BiDi listening on ws://localhost:53278
+Read port: 53288
+1662747017243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilex11ud2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53278/devtools/browser/c9731882-674e-414f-b968-9f14cc7bff1a
+1662747087721	Marionette	INFO	Stopped listening on port 53288
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662747118942	geckodriver	INFO	Listening on 127.0.0.1:53337
+1662747122004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53338" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileoPNddv"
+1662747122265	Marionette	INFO	Marionette enabled
+1662747122270	Marionette	INFO	Listening on port 53348
+WebDriver BiDi listening on ws://localhost:53338
+Read port: 53348
+1662747122384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileoPNddv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53338/devtools/browser/ebcb70ff-2e62-404a-ae0d-4bfde441400b
+1662747207201	Marionette	INFO	Stopped listening on port 53348
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662747211294	geckodriver	INFO	Listening on 127.0.0.1:53397
+1662747214351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53398" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileVO51ju"
+1662747214619	Marionette	INFO	Marionette enabled
+1662747214623	Marionette	INFO	Listening on port 53408
+WebDriver BiDi listening on ws://localhost:53398
+Read port: 53408
+1662747214733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileVO51ju\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53398/devtools/browser/6aa1eb97-bd06-451f-9293-54de09b45658
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662747400478	Marionette	INFO	Stopped listening on port 53408
+1662747401701	geckodriver	INFO	Listening on 127.0.0.1:53482
+1662747404749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileoCpKqE"
+1662747405026	Marionette	INFO	Marionette enabled
+1662747405030	Marionette	INFO	Listening on port 53502
+WebDriver BiDi listening on ws://localhost:53483
+Read port: 53502
+1662747405136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileoCpKqE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53483/devtools/browser/bfbdef43-92fe-48d4-925d-2ff8424d73c9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662752457662	Marionette	INFO	Stopped listening on port 53502
+1662752461542	geckodriver	INFO	Listening on 127.0.0.1:53867
+1662752464622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileGTdgQe"
+1662752464922	Marionette	INFO	Marionette enabled
+1662752464925	Marionette	INFO	Listening on port 53878
+WebDriver BiDi listening on ws://localhost:53868
+Read port: 53878
+1662752465032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileGTdgQe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53868/devtools/browser/ae695135-c4c4-49a3-9025-ff21a47ce619
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: "IGNORED REDUX ACTION:" "AUTOCOMPLETE_CLEAR"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662752656953	Marionette	INFO	Stopped listening on port 53878
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662752658124	geckodriver	INFO	Listening on 127.0.0.1:53973
+1662752661194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53974" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileRfqQ5E"
+1662752661446	Marionette	INFO	Marionette enabled
+1662752661450	Marionette	INFO	Listening on port 53984
+WebDriver BiDi listening on ws://localhost:53974
+Read port: 53984
+1662752661616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileRfqQ5E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53974/devtools/browser/95199fed-da55-4808-8107-4eac95d1424d
+1662752682675	Marionette	INFO	Stopped listening on port 53984
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662752732514	geckodriver	INFO	Listening on 127.0.0.1:54022
+1662752735595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofiledfGuM2"
+1662752735832	Marionette	INFO	Marionette enabled
+1662752735836	Marionette	INFO	Listening on port 54033
+WebDriver BiDi listening on ws://localhost:54023
+Read port: 54033
+1662752736051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofiledfGuM2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54023/devtools/browser/6a51f4a6-1be5-4138-a034-dba67d807e24
+1662752749196	Marionette	INFO	Stopped listening on port 54033
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662752752152	geckodriver	INFO	Listening on 127.0.0.1:54058
+1662752755955	geckodriver	INFO	Listening on 127.0.0.1:54065
+1662752759043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54066" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileZiwTBJ"
+1662752759288	Marionette	INFO	Marionette enabled
+1662752759291	Marionette	INFO	Listening on port 54076
+WebDriver BiDi listening on ws://localhost:54066
+Read port: 54076
+1662752759461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileZiwTBJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54066/devtools/browser/9e55c93b-8218-4954-abf5-b288868b116a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+1662753009734	Marionette	INFO	Stopped listening on port 54076
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileJW0S1V"
+1662752863717	Marionette	INFO	Marionette enabled
+1662752863721	Marionette	INFO	Listening on port 54151
+WebDriver BiDi listening on ws://localhost:54141
+Read port: 54151
+1662752863891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileJW0S1V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54141/devtools/browser/fa0cea40-ae08-4e51-a579-bdd1b72171d6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662752883412	Marionette	INFO	Stopped listening on port 54151
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileiT25OC"
+1662752883317	Marionette	INFO	Marionette enabled
+1662752883321	Marionette	INFO	Listening on port 54202
+WebDriver BiDi listening on ws://localhost:54192
+Read port: 54202
+1662752883561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileiT25OC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54192/devtools/browser/9d7291e4-d9a8-4347-aef0-5292999a5715
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662753036888	Marionette	INFO	Stopped listening on port 54202
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ltipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662752932291	Marionette	INFO	Stopped listening on port 54219
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662753038627	geckodriver	INFO	Listening on 127.0.0.1:54310
+1662753041705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileeB1Gdh"
+1662753041962	Marionette	INFO	Marionette enabled
+1662753041966	Marionette	INFO	Listening on port 54322
+WebDriver BiDi listening on ws://localhost:54311
+Read port: 54322
+1662753042137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileeB1Gdh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54311/devtools/browser/e57c27da-9182-46b2-9afe-2a6e4d5a1cde
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662753050906	Marionette	INFO	Stopped listening on port 54322
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662807816473	geckodriver	INFO	Listening on 127.0.0.1:50212
+1662807819536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileFrZnZN"
+1662807820035	Marionette	INFO	Marionette enabled
+1662807820042	Marionette	INFO	Listening on port 50223
+WebDriver BiDi listening on ws://localhost:50213
+Read port: 50223
+1662807820210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileFrZnZN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50213/devtools/browser/d5d8d48b-2b87-4665-bc39-5a97abb5825f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662808505720	Marionette	INFO	Stopped listening on port 50223
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662808507673	geckodriver	INFO	Listening on 127.0.0.1:50370
+1662808510741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileFdPWBR"
+1662808511101	Marionette	INFO	Marionette enabled
+1662808511106	Marionette	INFO	Listening on port 50382
+WebDriver BiDi listening on ws://localhost:50371
+Read port: 50382
+1662808511249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileFdPWBR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50371/devtools/browser/4226633c-a2ad-432d-bafa-9961ecf8f275
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662808533386	Marionette	INFO	Stopped listening on port 50382
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662808555620	geckodriver	INFO	Listening on 127.0.0.1:50419
+1662808558681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileKyjfuC"
+1662808559008	Marionette	INFO	Marionette enabled
+1662808559013	Marionette	INFO	Listening on port 50430
+WebDriver BiDi listening on ws://localhost:50420
+Read port: 50430
+1662808559287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileKyjfuC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50420/devtools/browser/c1c72b44-b12b-4a70-912f-4bf0d64302ea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821117024	Marionette	INFO	Stopped listening on port 50430
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\\Temp\\rust_mozprofile1S8ckk"
+1662808790127	Marionette	INFO	Marionette enabled
+1662808790133	Marionette	INFO	Listening on port 50538
+WebDriver BiDi listening on ws://localhost:50528
+Read port: 50538
+1662808790265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile1S8ckk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50528/devtools/browser/92c08f4c-235f-410a-9183-1a60f46b9520
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662808806128	Marionette	INFO	Stopped listening on port 50538
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662808819443	geckodriver	INFO	Listening on 127.0.0.1:50574
+1662808822499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilevieNFZ"
+1662808822854	Marionette	INFO	Marionette enabled
+1662808822859	Marionette	INFO	Listening on port 50585
+WebDriver BiDi listening on ws://localhost:50575
+Read port: 50585
+1662808822997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilevieNFZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50575/devtools/browser/2c0e78dc-c434-40d0-aa92-c4c69771316a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662808855258	Marionette	INFO	Stopped listening on port 50585
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662808960962	geckodriver	INFO	Listening on 127.0.0.1:50638
+1662808964028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileOnv3uH"
+1662808964360	Marionette	INFO	Marionette enabled
+1662808964365	Marionette	INFO	Listening on port 50653
+Read port: 50653
+WebDriver BiDi listening on ws://localhost:50639
+1662808964502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileOnv3uH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50639/devtools/browser/9bec29d0-e3c0-4640-8950-8d3c235977fa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662809219641	Marionette	INFO	Stopped listening on port 50653
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662809389862	geckodriver	INFO	Listening on 127.0.0.1:50710
+1662809392925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilePyS8bQ"
+1662809393255	Marionette	INFO	Marionette enabled
+1662809393260	Marionette	INFO	Listening on port 50721
+WebDriver BiDi listening on ws://localhost:50711
+Read port: 50721
+1662809393393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilePyS8bQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50711/devtools/browser/57c64568-1d1e-4ffc-b9d3-8a2b74d1befe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821118199	Marionette	INFO	Stopped listening on port 50721
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile9owQ7d"
+1662809549874	Marionette	INFO	Marionette enabled
+1662809549879	Marionette	INFO	Listening on port 50777
+WebDriver BiDi listening on ws://localhost:50767
+Read port: 50777
+1662809550026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile9owQ7d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50767/devtools/browser/257cb58d-3a37-4de6-bc7d-aa0db0d283f5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821119319	Marionette	INFO	Stopped listening on port 50777
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileGKAutw"
+1662809812553	Marionette	INFO	Marionette enabled
+1662809812558	Marionette	INFO	Listening on port 50859
+WebDriver BiDi listening on ws://localhost:50849
+Read port: 50859
+1662809812691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileGKAutw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50849/devtools/browser/0ba75666-3a92-41b9-bda8-3c621d55d186
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662809841673	Marionette	INFO	Stopped listening on port 50859
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662809844855	geckodriver	INFO	Listening on 127.0.0.1:50903
+1662809847936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileeTa70j"
+1662809848272	Marionette	INFO	Marionette enabled
+1662809848277	Marionette	INFO	Listening on port 50914
+Read port: 50914
+WebDriver BiDi listening on ws://localhost:50904
+1662809848411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileeTa70j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50904/devtools/browser/c5bfceb0-e510-47b0-86c1-245d18e97475
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662816335568	Marionette	INFO	Stopped listening on port 50914
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50955" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilenyeGcE"
+1662809897325	Marionette	INFO	Marionette enabled
+1662809897330	Marionette	INFO	Listening on port 50964
+Read port: 50964
+WebDriver BiDi listening on ws://localhost:50955
+1662809897464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilenyeGcE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50955/devtools/browser/f48ecb0b-2e7e-4f1a-8a58-88e71dd30dc0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662816334966	Marionette	INFO	Stopped listening on port 50964
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileoeDo9E"
+1662809925137	Marionette	INFO	Marionette enabled
+1662809925142	Marionette	INFO	Listening on port 51015
+WebDriver BiDi listening on ws://localhost:51005
+Read port: 51015
+1662809925304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileoeDo9E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51005/devtools/browser/48295e64-2048-47f4-ba72-d1c2e1b27082
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662816333678	Marionette	INFO	Stopped listening on port 51015
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilePnYbgs"
+1662809951382	Marionette	INFO	Marionette enabled
+1662809951387	Marionette	INFO	Listening on port 51075
+WebDriver BiDi listening on ws://localhost:51065
+Read port: 51075
+1662809951571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilePnYbgs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51065/devtools/browser/ed064bbb-ff62-4c1a-b56a-4cd74bcf55b7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662816338109	Marionette	INFO	Stopped listening on port 51075
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662816457148	geckodriver	INFO	Listening on 127.0.0.1:59411
+1662816460213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59412" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileeScGh3"
+1662816460545	Marionette	INFO	Marionette enabled
+1662816460550	Marionette	INFO	Listening on port 59422
+WebDriver BiDi listening on ws://localhost:59412
+Read port: 59422
+1662816460687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileeScGh3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59412/devtools/browser/512ee16b-50ce-4db9-8e3e-1f7714d17e25
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662816540693	Marionette	INFO	Stopped listening on port 59422
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662816825579	geckodriver	INFO	Listening on 127.0.0.1:64501
+1662816828627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64502" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileZwuRv5"
+1662816829082	Marionette	INFO	Marionette enabled
+1662816829088	Marionette	INFO	Listening on port 64513
+WebDriver BiDi listening on ws://localhost:64502
+Read port: 64513
+1662816829268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileZwuRv5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64502/devtools/browser/5cfc7bd1-e6c6-44bc-9e7a-541b7725b67a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662816972638	Marionette	INFO	Stopped listening on port 64513
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileZkMrPi"
+1662816865875	Marionette	INFO	Marionette enabled
+1662816865880	Marionette	INFO	Listening on port 64665
+WebDriver BiDi listening on ws://localhost:64655
+Read port: 64665
+1662816866117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileZkMrPi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64655/devtools/browser/7c672269-56b6-4bd0-a878-8c0b7ae6181d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662816972137	Marionette	INFO	Stopped listening on port 64665
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662817120744	geckodriver	INFO	Listening on 127.0.0.1:64884
+1662817123814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilezMo56N"
+1662817124219	Marionette	INFO	Marionette enabled
+1662817124225	Marionette	INFO	Listening on port 64896
+WebDriver BiDi listening on ws://localhost:64885
+Read port: 64896
+1662817124386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilezMo56N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64885/devtools/browser/62f76890-a4fd-444b-9f39-30e3ed06af50
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662817336240	Marionette	INFO	Stopped listening on port 64896
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilepvkVBm"
+1662817165710	Marionette	INFO	Marionette enabled
+1662817165715	Marionette	INFO	Listening on port 63343
+WebDriver BiDi listening on ws://localhost:64934
+Read port: 63343
+1662817165854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilepvkVBm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64934/devtools/browser/cc25bef6-31e2-4573-b923-5d3d3295c2b4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662817335705	Marionette	INFO	Stopped listening on port 63343
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilerVKwvG"
+1662817271443	Marionette	INFO	Marionette enabled
+1662817271448	Marionette	INFO	Listening on port 63403
+WebDriver BiDi listening on ws://localhost:63393
+Read port: 63403
+1662817271603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilerVKwvG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63393/devtools/browser/cffbc7e3-b536-48c0-aeb2-2a64aa8c9ffb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662817335041	Marionette	INFO	Stopped listening on port 63403
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662817371302	geckodriver	INFO	Listening on 127.0.0.1:63458
+1662817374379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile81LUL4"
+1662817374708	Marionette	INFO	Marionette enabled
+1662817374714	Marionette	INFO	Listening on port 63469
+WebDriver BiDi listening on ws://localhost:63459
+Read port: 63469
+1662817374875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile81LUL4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63459/devtools/browser/899cb2b1-697b-4ae3-b360-a6687d9ade25
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662817398872	Marionette	INFO	Stopped listening on port 63469
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662817401439	geckodriver	INFO	Listening on 127.0.0.1:63507
+1662817404516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63508" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileD2hWlc"
+1662817404847	Marionette	INFO	Marionette enabled
+1662817404852	Marionette	INFO	Listening on port 63518
+Read port: 63518
+WebDriver BiDi listening on ws://localhost:63508
+1662817404987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileD2hWlc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63508/devtools/browser/36afd623-2287-41fd-b6d9-fcfb2796db42
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662817523573	Marionette	INFO	Stopped listening on port 63518
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63556" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileiJngCG"
+1662817460517	Marionette	INFO	Marionette enabled
+1662817460523	Marionette	INFO	Listening on port 63566
+WebDriver BiDi listening on ws://localhost:63556
+Read port: 63566
+1662817460660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileiJngCG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63556/devtools/browser/c369e571-7b7a-44f7-b746-9d593ebae8a7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662817523053	Marionette	INFO	Stopped listening on port 63566
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63610" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileslWGbS"
+1662817498523	Marionette	INFO	Marionette enabled
+1662817498528	Marionette	INFO	Listening on port 63621
+Read port: 63621
+WebDriver BiDi listening on ws://localhost:63610
+1662817498665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileslWGbS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63610/devtools/browser/ab5e6a32-2e39-40c7-a136-372774811b79
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662817522528	Marionette	INFO	Stopped listening on port 63621662817523885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63661" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofiledHspbj"
+1662817524267	Marionette	INFO	Marionette enabled
+1662817524273	Marionette	INFO	Listening on port 63676
+WebDriver BiDi listening on ws://localhost:63661
+Read port: 63676
+1662817524418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofiledHspbj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63661/devtools/browser/aa35f64e-7548-4f73-a31a-a5652a6b6c12
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662817538889	Marionette	INFO	Stopped listening on port 63676
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662817541799	geckodriver	INFO	Listening on 127.0.0.1:63715
+1662817544872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileOX1Bqc"
+1662817545199	Marionette	INFO	Marionette enabled
+1662817545205	Marionette	INFO	Listening on port 63727
+WebDriver BiDi listening on ws://localhost:63716
+Read port: 63727
+1662817545341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileOX1Bqc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63716/devtools/browser/a073968a-695c-4924-a969-23c0b08f3bd1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821120696	Marionette	INFO	Stopped listening on port 63727
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileFkDl7n"
+1662818742652	Marionette	INFO	Marionette enabled
+1662818742657	Marionette	INFO	Listening on port 63935
+WebDriver BiDi listening on ws://localhost:63924
+Read port: 63935
+1662818742885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileFkDl7n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63924/devtools/browser/edf7076a-2009-4597-963e-2b6afcc55217
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662818789059	Marionette	INFO	Stopped listening on port 63935
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662818790603	geckodriver	INFO	Listening on 127.0.0.1:63977
+1662818793662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileZpAHFP"
+1662818794044	Marionette	INFO	Marionette enabled
+1662818794050	Marionette	INFO	Listening on port 63989
+WebDriver BiDi listening on ws://localhost:63978
+Read port: 63989
+1662818794211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileZpAHFP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63978/devtools/browser/270d0cf7-338a-4a39-8e47-51a9ba43b7af
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821106137	Marionette	INFO	Stopped listening on port 63989
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileHd55xh"
+1662818822339	Marionette	INFO	Marionette enabled
+1662818822344	Marionette	INFO	Listening on port 64038
+WebDriver BiDi listening on ws://localhost:64027
+Read port: 64038
+1662818822575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileHd55xh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64027/devtools/browser/f98e824c-15ce-4385-a346-6e5986f6d561
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821112485	Marionette	INFO	Stopped listening on port 64038
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileCqdAI1"
+1662819808507	Marionette	INFO	Marionette enabled
+1662819808511	Marionette	INFO	Listening on port 54989
+Read port: 54989
+WebDriver BiDi listening on ws://localhost:54978
+1662819808621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileCqdAI1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54978/devtools/browser/d88056df-dda5-4d9a-9016-9a4eb87a366b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662819828721	Marionette	INFO	Stopped listening on port 54989
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662819830043	geckodriver	INFO	Listening on 127.0.0.1:55025
+1662819833117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55026" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilew5cPMm"
+1662819833419	Marionette	INFO	Marionette enabled
+1662819833424	Marionette	INFO	Listening on port 55037
+WebDriver BiDi listening on ws://localhost:55026
+Read port: 55037
+1662819833546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilew5cPMm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55026/devtools/browser/ca287abc-70f2-4d2b-9722-46df29b971b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662820042272	Marionette	INFO	Stopped listening on port 55037
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileW69zmq"
+1662819863673	Marionette	INFO	Marionette enabled
+1662819863678	Marionette	INFO	Listening on port 55088
+WebDriver BiDi listening on ws://localhost:55078
+Read port: 55088
+1662819863789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileW69zmq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55078/devtools/browser/2b2284f1-5526-4b40-af17-ba270b33f85c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662820041119	Marionette	INFO	Stopped listening on port 55088
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilespkoyh"
+1662820024305	Marionette	INFO	Marionette enabled
+1662820024309	Marionette	INFO	Listening on port 55169
+WebDriver BiDi listening on ws://localhost:55159
+Read port: 55169
+1662820024426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilespkoyh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55159/devtools/browser/531d40be-68e8-4a9b-bff8-40e0c6437c52
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662820040272	Marionette	INFO	Stopped listening on port 55169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662820043907	geckodriver	INFO	Listening on 127.0.0.1:55212
+1662820046970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileBMX0Yi"
+1662820047289	Marionette	INFO	Marionette enabled
+1662820047293	Marionette	INFO	Listening on port 55224
+WebDriver BiDi listening on ws://localhost:55213
+Read port: 55224
+1662820047403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileBMX0Yi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55213/devtools/browser/4aa51fde-605e-4d09-a3eb-bbca4e4e2b60
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821110971	Marionette	INFO	Stopped listening on port 55224
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55294" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileJLhYmH"
+1662820211516	Marionette	INFO	Marionette enabled
+1662820211521	Marionette	INFO	Listening on port 55305
+WebDriver BiDi listening on ws://localhost:55294
+Read port: 55305
+1662820211632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileJLhYmH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55294/devtools/browser/aa5893ab-1185-47b0-b4ee-3939ad8ffb71
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821115608	Marionette	INFO	Stopped listening on port 55305
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilepLuHA5"
+1662820295228	Marionette	INFO	Marionette enabled
+1662820295236	Marionette	INFO	Listening on port 55361
+WebDriver BiDi listening on ws://localhost:55352
+Read port: 55361
+1662820295352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilepLuHA5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55352/devtools/browser/b9078b43-3694-4a75-a32c-5e8391e40462
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+1662820303382	geckodriver	INFO	Listening on 127.0.0.1:55401
+1662820306458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55402" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileRSWDKn"
+1662820306745	Marionette	INFO	Marionette enabled
+1662820306751	Marionette	INFO	Listening on port 55414
+WebDriver BiDi listening on ws://localhost:55402
+Read port: 55414
+1662820306878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileRSWDKn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55402/devtools/browser/57036fd1-f705-424f-b265-bd1baa009543
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662820524990	Marionette	INFO	Stopped listening on port 55414
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileTQenqt"
+1662820336220	Marionette	INFO	Marionette enabled
+1662820336225	Marionette	INFO	Listening on port 55465
+WebDriver BiDi listening on ws://localhost:55455
+Read port: 55465
+1662820336334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileTQenqt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55455/devtools/browser/bb19bcb7-e235-47d4-ae57-6fd5442e3f49
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662820524539	Marionette	INFO	Stopped listening on port 55465
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662820527034	geckodriver	INFO	Listening on 127.0.0.1:55568
+1662820530113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55569" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile0dDDSu"
+1662820530457	Marionette	INFO	Marionette enabled
+1662820530462	Marionette	INFO	Listening on port 55580
+WebDriver BiDi listening on ws://localhost:55569
+Read port: 55580
+1662820530682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile0dDDSu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55569/devtools/browser/fb0cae72-09b5-4a6b-aa86-3bacddb38479
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821021956	Marionette	INFO	Stopped listening on port 55580
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilenRtmtq"
+1662820822733	Marionette	INFO	Marionette enabled
+1662820822739	Marionette	INFO	Listening on port 55689
+WebDriver BiDi listening on ws://localhost:55679
+Read port: 55689
+1662820822843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilenRtmtq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55679/devtools/browser/7cf9e342-ad3d-46a5-af96-d37baf92c314
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662820853489	Marionette	INFO	Stopped listening on port 55689
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662820856955	geckodriver	INFO	Listening on 127.0.0.1:55727
+1662820860015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile42LFyp"
+1662820860280	Marionette	INFO	Marionette enabled
+1662820860285	Marionette	INFO	Listening on port 55738
+WebDriver BiDi listening on ws://localhost:55728
+Read port: 55738
+1662820860392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile42LFyp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55728/devtools/browser/f3882299-0364-40ac-87fe-0c14cd3f8c6f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821018943	Marionette	INFO	Stopped listening on port 55738
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile3OqlqJ"
+1662821004246	Marionette	INFO	Marionette enabled
+1662821004251	Marionette	INFO	Listening on port 55812
+WebDriver BiDi listening on ws://localhost:55801
+Read port: 55812
+1662821004365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile3OqlqJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55801/devtools/browser/a6b703ee-7192-47e3-8f8e-ea201ae93293
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821018448	Marionette	INFO	Stopped listening on port 55812
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662821024844	geckodriver	INFO	Listening on 127.0.0.1:55854
+1662821027907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile78970w"
+1662821028176	Marionette	INFO	Marionette enabled
+1662821028181	Marionette	INFO	Listening on port 55865
+WebDriver BiDi listening on ws://localhost:55855
+Read port: 55865
+1662821028294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile78970w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55855/devtools/browser/61868b4a-f3c3-4df5-b0d3-a3b5259edbe7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821113546	Marionette	INFO	Stopped listening on port 55865
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662821127404	geckodriver	INFO	Listening on 127.0.0.1:55927
+1662821130469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile1wM07I"
+1662821130741	Marionette	INFO	Marionette enabled
+1662821130746	Marionette	INFO	Listening on port 55938
+WebDriver BiDi listening on ws://localhost:55928
+Read port: 55938
+1662821130852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile1wM07I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55928/devtools/browser/098f3abf-226e-482f-9738-508db280df9f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821149205	Marionette	INFO	Stopped listening on port 55938
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662821152370	geckodriver	INFO	Listening on 127.0.0.1:55977
+1662821155445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileL8tr5u"
+1662821155713	Marionette	INFO	Marionette enabled
+1662821155717	Marionette	INFO	Listening on port 55988
+WebDriver BiDi listening on ws://localhost:55978
+Read port: 55988
+1662821155827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileL8tr5u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55978/devtools/browser/b38ebf7b-599c-4c7c-bbe2-b11b9d31e177
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821223881	Marionette	INFO	Stopped listening on port 55988
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662821225551	geckodriver	INFO	Listening on 127.0.0.1:56035
+1662821228597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileKJD5zG"
+1662821228890	Marionette	INFO	Marionette enabled
+1662821228895	Marionette	INFO	Listening on port 56046
+WebDriver BiDi listening on ws://localhost:56036
+Read port: 56046
+1662821229007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileKJD5zG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56036/devtools/browser/ca20a0b9-8f0c-42be-93fa-14d57d377dcb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821962585	Marionette	INFO	Stopped listening on port 56046
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilei7R7DD"
+1662821462236	Marionette	INFO	Marionette enabled
+1662821462240	Marionette	INFO	Listening on port 56127
+WebDriver BiDi listening on ws://localhost:56116
+Read port: 56127
+1662821462349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilei7R7DD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56116/devtools/browser/459f09aa-0f42-4fc5-96bd-4dc7feedd28a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662821485713	Marionette	INFO	Stopped listening on port 56127
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662821965953	geckodriver	INFO	Listening on 127.0.0.1:56213
+1662821969032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56214" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile52EV2D"
+1662821969317	Marionette	INFO	Marionette enabled
+1662821969321	Marionette	INFO	Listening on port 56224
+WebDriver BiDi listening on ws://localhost:56214
+Read port: 56224
+1662821969435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile52EV2D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56214/devtools/browser/59fad0e8-d869-4e2f-a640-7adfd5789b16
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662822011313	Marionette	INFO	Stopped listening on port 56224
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662822013086	geckodriver	INFO	Listening on 127.0.0.1:56267
+1662822016145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilevw5z30"
+1662822016416	Marionette	INFO	Marionette enabled
+1662822016421	Marionette	INFO	Listening on port 56278
+WebDriver BiDi listening on ws://localhost:56268
+Read port: 56278
+1662822016531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilevw5z30\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56268/devtools/browser/4f6706b9-0a2e-4bfc-8a09-84561d86747b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662822044552	Marionette	INFO	Stopped listening on port 56278
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662822157612	geckodriver	INFO	Listening on 127.0.0.1:56334
+1662822160674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilegR5I00"
+1662822160948	Marionette	INFO	Marionette enabled
+1662822160953	Marionette	INFO	Listening on port 56345
+WebDriver BiDi listening on ws://localhost:56335
+Read port: 56345
+1662822161057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilegR5I00\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56335/devtools/browser/3a363776-c257-4b07-81a3-f3e1c38e0f48
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662822188158	Marionette	INFO	Stopped listening on port 56345
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662822190527	geckodriver	INFO	Listening on 127.0.0.1:56386
+1662822193593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile58C3RD"
+1662822193864	Marionette	INFO	Marionette enabled
+1662822193868	Marionette	INFO	Listening on port 56398
+WebDriver BiDi listening on ws://localhost:56387
+Read port: 56398
+1662822193985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile58C3RD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56387/devtools/browser/d10728b7-cd62-46ae-bf5c-66503312b66d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662822219488	Marionette	INFO	Stopped listening on port 56398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662822220848	geckodriver	INFO	Listening on 127.0.0.1:56434
+1662822221682	geckodriver	INFO	Listening on 127.0.0.1:56438
+1662822224758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofiley1FhZr"
+1662822225023	Marionette	INFO	Marionette enabled
+1662822225027	Marionette	INFO	Listening on port 56450
+WebDriver BiDi listening on ws://localhost:56439
+Read port: 56450
+1662822225136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofiley1FhZr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56439/devtools/browser/09a2d560-94e2-4093-abe5-9a082532cf4b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662822378373	Marionette	INFO	Stopped listening on port 56450
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileVKwyLk"
+1662822332880	Marionette	INFO	Marionette enabled
+1662822332884	Marionette	INFO	Listening on port 56503
+WebDriver BiDi listening on ws://localhost:56493
+Read port: 56503
+1662822333000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileVKwyLk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56493/devtools/browser/92cd3acb-19f8-40d7-bad8-f723c7dde644
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662822377911	Marionette	INFO	Stopped listening on port 56503
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662822380348	geckodriver	INFO	Listening on 127.0.0.1:56550
+1662822383404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileO4K5Sg"
+1662822383728	Marionette	INFO	Marionette enabled
+1662822383733	Marionette	INFO	Listening on port 56560
+WebDriver BiDi listening on ws://localhost:56551
+Read port: 56560
+1662822383847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileO4K5Sg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56551/devtools/browser/a5957dfb-f306-4c37-b654-509eec55d3c9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662822552471	Marionette	INFO	Stopped listening on port 56560
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56596" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile1iOOow"
+1662822420463	Marionette	INFO	Marionette enabled
+1662822420467	Marionette	INFO	Listening on port 56606
+WebDriver BiDi listening on ws://localhost:56596
+Read port: 56606
+1662822420574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile1iOOow\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56596/devtools/browser/9b99b02c-6771-422a-a4ef-709a776ba507
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662822551391	Marionette	INFO	Stopped listening on port 56606
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile3wBnGE"
+1662822486722	Marionette	INFO	Marionette enabled
+1662822486726	Marionette	INFO	Listening on port 56670
+WebDriver BiDi listening on ws://localhost:56659
+Read port: 56670
+1662822486835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile3wBnGE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56659/devtools/browser/62a66fb2-986d-4088-b317-00c72d204c68
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662822550946	Marionette	INFO	Stopped listening on port 56670
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662822554504	geckodriver	INFO	Listening on 127.0.0.1:56733
+1662822557583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilemWZT1V"
+1662822557865	Marionette	INFO	Marionette enabled
+1662822557869	Marionette	INFO	Listening on port 56745
+WebDriver BiDi listening on ws://localhost:56734
+Read port: 56745
+1662822557978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilemWZT1V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56734/devtools/browser/ee5aa43c-63ee-41ee-b855-b29bbd461ac2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662826892279	Marionette	INFO	Stopped listening on port 56745
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilehlWqLf"
+1662823169147	Marionette	INFO	Marionette enabled
+1662823169152	Marionette	INFO	Listening on port 56877
+WebDriver BiDi listening on ws://localhost:56865
+Read port: 56877
+1662823169260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilehlWqLf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56865/devtools/browser/a80473b0-230b-4672-ad93-7faf7dd47e3e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662823227418	Marionette	INFO	Stopped listening on port 56877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileXbeXbs"
+1662823215528	Marionette	INFO	Marionette enabled
+1662823215533	Marionette	INFO	Listening on port 56925
+WebDriver BiDi listening on ws://localhost:56915
+Read port: 56925
+1662823215660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileXbeXbs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56915/devtools/browser/6093b154-5196-469c-8419-5961a462c684
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662823226913	Marionette	INFO	Stopped listening on port 56925
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662823250364	geckodriver	INFO	Listening on 127.0.0.1:56970
+1662823253431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile3hG2pn"
+1662823253738	Marionette	INFO	Marionette enabled
+1662823253743	Marionette	INFO	Listening on port 56981
+WebDriver BiDi listening on ws://localhost:56971
+Read port: 56981
+1662823253870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile3hG2pn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56971/devtools/browser/68a6570f-4b3b-458e-855a-5fc40d4c43cd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662823405788	Marionette	INFO	Stopped listening on port 56981
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileT3HbXX"
+1662823308982	Marionette	INFO	Marionette enabled
+1662823308987	Marionette	INFO	Listening on port 57029
+WebDriver BiDi listening on ws://localhost:57018
+Read port: 57029
+1662823309097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileT3HbXX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57018/devtools/browser/5dbd8d91-8093-487c-8137-c6bc74da2c93
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662823405293	Marionette	INFO	Stopped listening on port 57029
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilegr3aOx"
+1662823327911	Marionette	INFO	Marionette enabled
+1662823327915	Marionette	INFO	Listening on port 57079
+WebDriver BiDi listening on ws://localhost:57069
+Read port: 57079
+1662823328043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilegr3aOx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57069/devtools/browser/697b84aa-d7b6-4ea2-b61c-bda4ffccf4e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662823404812	Marionette	INFO	Stopped listening on port 57079
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662823419266	geckodriver	INFO	Listening on 127.0.0.1:57243
+1662823422324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile9UL3j1"
+1662823422614	Marionette	INFO	Marionette enabled
+1662823422621	Marionette	INFO	Listening on port 57255
+WebDriver BiDi listening on ws://localhost:57244
+Read port: 57255
+1662823422746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile9UL3j1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57244/devtools/browser/4dffaf89-900b-4047-92e7-79e4606b6946
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662823445496	Marionette	INFO	Stopped listening on port 57255
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662823448123	geckodriver	INFO	Listening on 127.0.0.1:57290
+1662823451189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileuUvZfD"
+1662823451457	Marionette	INFO	Marionette enabled
+1662823451462	Marionette	INFO	Listening on port 57301
+WebDriver BiDi listening on ws://localhost:57291
+Read port: 57301
+1662823451569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileuUvZfD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57291/devtools/browser/3e60a14c-e47c-4b46-a087-ed1c288cb5a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662823793557	Marionette	INFO	Stopped listening on port 57301
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileciRKwM"
+1662823778090	Marionette	INFO	Marionette enabled
+1662823778095	Marionette	INFO	Listening on port 57377
+WebDriver BiDi listening on ws://localhost:57367
+Read port: 57377
+1662823778210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileciRKwM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57367/devtools/browser/2db14109-a2bb-48ee-86ff-51c0ebb5d2ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662823793136	Marionette	INFO	Stopped listening on port 57377
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662823795772	geckodriver	INFO	Listening on 127.0.0.1:57418
+1662823798855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileDqZELZ"
+1662823799141	Marionette	INFO	Marionette enabled
+1662823799145	Marionette	INFO	Listening on port 57429
+WebDriver BiDi listening on ws://localhost:57419
+Read port: 57429
+1662823799253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileDqZELZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57419/devtools/browser/b033971e-5741-4dba-bbf3-21a886bfcdee
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662824136323	Marionette	INFO	Stopped listening on port 57429
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662824138668	geckodriver	INFO	Listening on 127.0.0.1:57530
+1662824141733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileBEUnPK"
+1662824142000	Marionette	INFO	Marionette enabled
+1662824142005	Marionette	INFO	Listening on port 57541
+WebDriver BiDi listening on ws://localhost:57531
+Read port: 57541
+1662824142116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileBEUnPK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57531/devtools/browser/423b5dc2-bb72-425d-83ec-c0f6714823bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662824185638	Marionette	INFO	Stopped listening on port 57541
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662824382401	geckodriver	INFO	Listening on 127.0.0.1:57618
+1662824385452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilemDnEU7"
+1662824385731	Marionette	INFO	Marionette enabled
+1662824385736	Marionette	INFO	Listening on port 57629
+WebDriver BiDi listening on ws://localhost:57619
+Read port: 57629
+1662824385855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofilemDnEU7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57619/devtools/browser/c97f45f4-bd3c-4a65-9283-671c9fff34e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662824403572	Marionette	INFO	Stopped listening on port 57629
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662824457069	geckodriver	INFO	Listening on 127.0.0.1:57678
+1662824460123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileJBRWxK"
+1662824460391	Marionette	INFO	Marionette enabled
+1662824460396	Marionette	INFO	Listening on port 57689
+WebDriver BiDi listening on ws://localhost:57679
+Read port: 57689
+1662824460512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileJBRWxK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57679/devtools/browser/2375c00c-c5d0-4363-b3a5-ebe9993f5fd7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662824709122	Marionette	INFO	Stopped listening on port 57689
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662824710948	geckodriver	INFO	Listening on 127.0.0.1:57748
+1662824714006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileuvVvkp"
+1662824714300	Marionette	INFO	Marionette enabled
+1662824714305	Marionette	INFO	Listening on port 57760
+WebDriver BiDi listening on ws://localhost:57749
+Read port: 57760
+1662824714415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofileuvVvkp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57749/devtools/browser/7314128b-b704-4983-8257-a617d949231d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662824809424	Marionette	INFO	Stopped listening on port 57760
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662824811739	geckodriver	INFO	Listening on 127.0.0.1:57816
+1662824814804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile0wnfXz"
+1662824815074	Marionette	INFO	Marionette enabled
+1662824815079	Marionette	INFO	Listening on port 57828
+WebDriver BiDi listening on ws://localhost:57817
+Read port: 57828
+1662824815188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile0wnfXz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57817/devtools/browser/155814aa-5d27-4ca4-b6ad-cfd199b6991f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: $.fn.multipleSelect is undefined
+1662824820254	Marionette	INFO	Stopped listening on port 57828
+1662831750133	geckodriver	INFO	Listening on 127.0.0.1:62806
+1662831753211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile3JwiP3"
+1662831753584	Marionette	INFO	Marionette enabled
+1662831753589	Marionette	INFO	Listening on port 62817
+Read port: 62817
+WebDriver BiDi listening on ws://127.0.0.1:62807
+1662831753736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile3JwiP3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62807/devtools/browser/e962afcf-3bb7-4f75-840a-6e5bb90d7254
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: can't access property "locales", $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: can't access property "locales", $.fn.multipleSelect is undefined
+1662831758815	Marionette	INFO	Stopped listening on port 62817
+1662838722130	geckodriver	INFO	Listening on 127.0.0.1:55269
+1662838725180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55270" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile0MdcQg"
+1662838725612	Marionette	INFO	Marionette enabled
+1662838725618	Marionette	INFO	Listening on port 55280
+Read port: 55280
+WebDriver BiDi listening on ws://127.0.0.1:55270
+1662838725746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loren\\AppData\\Local\\Temp\\rust_mozprofile0MdcQg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55270/devtools/browser/a53164dd-80cd-4d54-99d0-1d9226b818b1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.prix-carburants.gouv.fr."
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: can't access property "locales", $.fn.multipleSelect is undefined
+JavaScript error: https://www.prix-carburants.gouv.fr/js/services_rech.js, line 18: TypeError: can't access property "locales", $.fn.multipleSelect is undefined
+1662838736652	Marionette	INFO	Stopped listening on port 55280
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
