@@ -57,15 +57,17 @@ require './vendor/php-webdriver/webdriver/lib/Support/Events/EventFiringWebDrive
 
                 $desciptionElement = [
                     "title" => $title->getText(),
-                    "rue" => $span[0]->getText(),
-                    "cp" => $span[1]->getText(),
-                    "prix" => $prix[0]->getText(),
-                    "date" => $prix[1]->getText()
+                    "rue" => $span[0]->getText() != "" ? $span[0]->getText() : $span[1]->getText(),
+                    "cp" => $span[0]->getText() != "" ? $span[1]->getText() : $span[2]->getText(),
+                    "prix" => $prix[0]->getText() != "" ? $prix[0]->getText() : $prix[1]->getText(),
+                    "date" => $prix[0]->getText() != "" ? $prix[1]->getText() : $prix[2]->getText()
                 ];
             }
             $results[] = $desciptionElement;
         }
-        echo json_encode($results);
+
+        header('Content-Type: application/json');
+        echo json_encode($results ? $results : "Il n'y a pas de stations référencées dans la commune recherchée");
         $driver->quit();
 	}
 
