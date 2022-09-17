@@ -32,14 +32,12 @@ require './vendor/php-webdriver/webdriver/lib/Support/Events/EventFiringWebDrive
         exit(0);
     }
 
-    function getData() {
-        // Geckodriver
-        exec('./geckodriver-v0.31.0-win64/geckodriver.exe');
+    function getData(string $cp) {
         $serverUrl = 'http://localhost:4444';
         $driver = RemoteWebDriver::create($serverUrl, DesiredCapabilities::firefox());
         $driver->get('https://www.prix-carburants.gouv.fr/');
         $driver->findElement(WebDriverBy::cssSelector('input#rechercher_choix_carbu_0'))->click();
-        $driver->findElement(WebDriverBy::cssSelector('input#rechercher_localisation'))->sendKeys("77410");
+        $driver->findElement(WebDriverBy::cssSelector('input#rechercher_localisation'))->sendKeys($cp);
         sleep(1);
         $driver->findElement(WebDriverBy::cssSelector('input.submit_recherche'))->submit();
         sleep(1);
@@ -72,7 +70,7 @@ require './vendor/php-webdriver/webdriver/lib/Support/Events/EventFiringWebDrive
 	}
 
     if ($request_method == "GET") {
-        getData();
+        getData($_GET['cp']);
     } else {
         header("HTTP/1.0 405 Method Not Allowed");
     }
