@@ -2,7 +2,7 @@ const widget = new ListWidget()
 widget.backgroundColor = Color.red()
 
 const req = new Request('http://51.77.149.101/apiChrome.php?cp=77410')
-const response = req.loadJSON()
+const response = await req.loadJSON()
 
 for (const i of response) {
     let title = response[i].title
