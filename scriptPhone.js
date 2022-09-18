@@ -1,5 +1,5 @@
 const widget = new ListWidget()
-const gradient = new LinearGradient()
+const g = new LinearGradient()
 g.colors = [new Color('141414'), new Color('13233F')]
 g.location = [0, 1]
 // widget.backgroundColor = Color.red()
